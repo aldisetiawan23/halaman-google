@@ -1,0 +1,131 @@
+.header{
+    display: flex;
+    justify-content: flex-end;
+    flex-direction: row;
+    align-items: center;
+
+}
+
+.header2{
+    background-color: red;
+    width: 34px;
+    height: 34px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.header1{
+    font-size: 20;
+    color: white;
+}
+
+a{
+    margin-right: 10px;
+
+}
+
+.gambar{
+    width: 300px;
+
+}
+
+.body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 200px;
+}
+
+input{
+    width: 382px;
+    padding: 8px;
+    border-radius: 20px;
+    padding-left: 20px;
+    margin-top: 16px;
+
+}
+
+.beruntung{
+    margin-top: 20px;
+
+}
+
+.apes{
+    margin-right: 10px;
+}
+
+.botol{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.udah{
+    display: flex;
+    align-items: center;
+    margin-right: 20px;
+}
+
+.summit{
+    padding-left: 20px;
+    background-color: black;
+    
+}
+
+.aqua{
+    font-size: 15pt;
+    color: white;
+    margin: 0;
+    padding: 10px 0;
+}
+
+.hari{
+    padding-left: 20px;
+    background-color: black;
+    display: flex;
+    justify-content: space-between;
+    color:#FFF;
+    
+}
+
+
+
+.malem{
+    font-size: 15pt;
+    color: white;
+    
+}
+
+.link-color {
+    color: #fff;
+}
+
+.senin{
+    color: white;
+}
+.selasa{
+    color: white;
+}
+
+.rabu{
+    color: white;
+}
+
+.kamis{
+    color: white;
+}
+
+.jumat{
+    color: white;
+}
+
+.sabtu{
+    color: white;
+
+}
+
+.minggu{
+    color: white;
+}
